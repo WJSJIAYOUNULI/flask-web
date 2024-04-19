@@ -1,3 +1,1 @@
-# woniunote-flask
-
-![蜗牛笔记功能图](https://raw.githubusercontent.com/woniulab/woniunote-flask/master/woniunote.jpg)
+基于flask开发的个人博客系统
